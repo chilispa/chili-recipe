@@ -16,3 +16,5 @@ This path reflects our team's culture and values, which have their roots in the 
 ### 4) Refactoring
 
 ### 5) Systems architecture
+
+### 6) Best practices
