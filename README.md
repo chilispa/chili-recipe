@@ -7,6 +7,7 @@ This path reflects our team's culture and values, which have their roots in the 
 ## Main learning path
 
 ### 1) Methodology
+* Read [Way to the cake: the Agile is a Lie learning path](https://github.com/chilispa/way-to-the-cake)
 
 ### 2) Testing and TDD
 
