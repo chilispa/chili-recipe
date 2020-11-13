@@ -10,6 +10,7 @@ This path reflects our team's culture and values, which have their roots in the 
 * Read [Way to the cake: the Agile is a Lie learning path](https://github.com/chilispa/way-to-the-cake)
 
 ### 2) Systems architecture
+* Read how to write a well-designed [REST API](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ### 3) Best practises
 1. Project Structure:
