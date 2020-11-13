@@ -9,15 +9,9 @@ This path reflects our team's culture and values, which have their roots in the 
 ### 1) Methodology
 * Read [Way to the cake: the Agile is a Lie learning path](https://github.com/chilispa/way-to-the-cake)
 
-### 2) Testing and TDD
+### 2) Systems architecture
 
-### 3) Clean code
-
-### 4) Refactoring
-
-### 5) Systems architecture
-
-### 6) Best practises
+### 3) Best practises
 1. Project Structure:
     * resources
     * services
