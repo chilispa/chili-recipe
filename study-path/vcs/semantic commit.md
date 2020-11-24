@@ -30,6 +30,7 @@ Allowed <type> values:
 * refactor (refactoring production code)
 * test (adding missing tests, refactoring tests; no production code change)
 * chore (updating grunt tasks etc; no production code change)
+* migration (adding new migration)
 
 
 #### Message body:
