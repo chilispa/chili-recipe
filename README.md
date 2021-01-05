@@ -8,6 +8,8 @@ This path reflects our team's culture and values, which have their roots in the 
 
 ### 1) Methodology
 * Read [Way to the cake: the Agile is a Lie learning path](https://github.com/chilispa/way-to-the-cake)
+* Read [Test-Driven Development](/study-path/methodologies/test_driven_development/tdd.md)
+    
 
 ### 2) Systems architecture
 * Read how to write a well-designed [REST API](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
