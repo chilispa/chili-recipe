@@ -8,7 +8,9 @@ This path reflects our team's culture and values, which have their roots in the 
 
 ### 1) Methodology
 * Read [Way to the cake: the Agile is a Lie learning path](https://github.com/chilispa/way-to-the-cake)
-* Read [Test-Driven Development](/study-path/methodologies/test_driven_development/tdd.md)
+* Test-Driven Development (TDD):
+   1. Read the [Introduction](/study-path/methodologies/test_driven_development/tdd.md).
+   2. Learn to use TDD in [Kata Games](/study-path/methodologies/test_driven_development/tdd_kata.md)
     
 
 ### 2) Systems architecture
