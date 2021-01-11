@@ -14,12 +14,12 @@ in particular their flexibility in response to new requirements.
 ## How does it work?
 TDD revolves around a short iterative development cycle that goes something like this:
 
-![Image text](https://miro.medium.com/max/996/1*pP8Ks6tlt718jJg3fqrtvw.jpeg)
+![tdd-cycle](https://miro.medium.com/max/996/1*pP8Ks6tlt718jJg3fqrtvw.jpeg)
 
-1. Before writing any code, you must first write an automated test for your code. 
+1. <b>RED</b>: Before writing any code, you must first write an automated test for your code. 
    The first time you run your automated test, the test should fail—indicating that the code is not yet ready.
-2. Afterward, you can begin programming. Since there's already an automated test, as long as the code fails it, 
+2. <b>GREEN</b>: Afterward, you can begin programming. Since there's already an automated test, as long as the code fails it, 
    it means that it's still not ready. The code can be fixed until it passes all assertions.
-3. Once the code passes the test, you can then begin cleaning it up, via refactoring. 
+3. <b>REFACTOR</b>: Once the code passes the test, you can then begin cleaning it up, via refactoring. 
    As long as the code still passes the test, it means that it still works. 
    You no longer have to worry about changes that introduce new bugs.
