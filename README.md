@@ -1,3 +1,5 @@
+![](resources/images/chili-recipe_5.png?raw=true)
+
 # Chili Recipe: the Chili Team Learning Path
 
 This is the learning path every new developer has to follow when joining the Chili team.
