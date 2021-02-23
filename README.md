@@ -1,4 +1,4 @@
-![](resources/images/chili-recipe.png?raw=true)
+![](resources/images/chili-recipe_5.png?raw=true)
 
 # Chili Recipe: the Chili Team Learning Path
 
